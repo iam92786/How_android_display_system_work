@@ -7,3 +7,9 @@ Every window that is created on the Android platform is backed by a surface.
 All of the visible surfaces rendered are composited onto the display by SurfaceFlinger.
 
 The Most 
+
+
+
+
+## Ref
+  * [link] (https://source.android.com/docs/core/graphics)
