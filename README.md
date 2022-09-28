@@ -12,4 +12,4 @@ The Most
 
 
 ## Ref
-  * [link] (https://source.android.com/docs/core/graphics)
+  * [link](https://source.android.com/docs/core/graphics)
